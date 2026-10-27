@@ -1,0 +1,10 @@
+# Nix
+result
+result-*
+.direnv/
+
+# Node
+node_modules/
+
+# Deploy backups
+*.backup.*

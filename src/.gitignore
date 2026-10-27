@@ -1,0 +1,10 @@
+node_modules
+package.json
+package-lock.json
+bun.lock
+.gitignore
+
+# Keep the dependency manifest tracked so the flake/Home Manager output is
+# reproducible; only the installed node_modules and generated lock stay local.
+!package.json
+!.gitignore

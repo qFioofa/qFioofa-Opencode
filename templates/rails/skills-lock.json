@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "skills": {
+    "design-postgres-tables": {
+      "source": "timescale/pg-aiguide",
+      "sourceType": "github",
+      "skillPath": "skills/design-postgres-tables/SKILL.md",
+      "computedHash": "6b44a27f3c448af8da01562da39f32846222f5ad53ee61a7d12f520c83df56b1"
+    },
+    "kamal-deployment": {
+      "source": "faqndo97/ai-skills",
+      "sourceType": "github",
+      "skillPath": "kamal/SKILL.md",
+      "computedHash": "d6a47ac2cee4f625a8b01ed3d996580d2706a55876f2fb59423a13a30b6ca67f"
+    },
+    "postgres": {
+      "source": "timescale/pg-aiguide",
+      "sourceType": "github",
+      "skillPath": "skills/postgres/SKILL.md",
+      "computedHash": "f4e49a29027d2d1d822f2f32b22809c121b01bb6d38fdb7e801623e242068b94"
+    },
+    "postgres-database-migration": {
+      "source": "timescale/pg-aiguide",
+      "sourceType": "github",
+      "skillPath": "skills/postgres-database-migration/SKILL.md",
+      "computedHash": "a9295c7f3f9b8b8b836af8d98b708d1728011f4bb4b13a20352aba9a8df36c28"
+    },
+    "postgresql-optimization": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "skillPath": "skills/postgresql-optimization/SKILL.md",
+      "computedHash": "8022448de70ba9a485e3b5bce34c5bbc644f93eb39b68431c9f7dabcf03aeb09"
+    },
+    "rails-expert": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/rails-expert/SKILL.md",
+      "computedHash": "960668fd9237e934ff169488caa74cefc012c3424b4bf9803f8ba99bf7cd91f0"
+    },
+    "rails-hotwire": {
+      "source": "pproenca/dot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/.experimental/rails-hotwire/SKILL.md",
+      "computedHash": "6731d0ea6d6c986e89a9561faf1ee3e086520dacaabe48aae6119afe890f8b49"
+    },
+    "rails-patterns": {
+      "source": "affaan-m/ecc",
+      "sourceType": "github",
+      "skillPath": "skills/rails-patterns/SKILL.md",
+      "computedHash": "c6fcfae4ac7281392245caa91396cb9d037755a2a6125b027c4327df8b1d5141"
+    },
+    "rspec": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "rspec/SKILL.md",
+      "computedHash": "0c03828d99b0f0884d84bd8e45d8a155fbc3aeb168d9687114361eeb20ef58a6"
+    },
+    "schema-exploration": {
+      "source": "timescale/pg-aiguide",
+      "sourceType": "github",
+      "skillPath": "skills/schema-exploration/SKILL.md",
+      "computedHash": "4de9c1264c045a7c6622b6827e4421912ace3d7b6f569c182e04efe462f0fef2"
+    },
+    "viewcomponent-coder": {
+      "source": "majesticlabs-dev/majestic-marketplace",
+      "sourceType": "github",
+      "skillPath": "plugins/majestic-rails/skills/viewcomponent-coder/SKILL.md",
+      "computedHash": "6b921ec2380e693b34912f81c8e29320ea71002a7ab7da540e45175ac355fcf0"
+    }
+  }
+}
